@@ -1,0 +1,36 @@
+body {
+  background-color: #f7ecec;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 50px;
+}
+
+.container {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+h1 {
+  color: #ff6f69;
+}
+
+.form {
+  margin-bottom: 20px;
+}
+
+input[type="text"] {
+  padding: 10px;
+  width: 300px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #ff6f69;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.message {
+  margin-top: 20px;
+}
